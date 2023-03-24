@@ -1,0 +1,25 @@
+/* h1 {
+    color: red;
+} */
+​
+* {
+    color: blue;
+}
+​
+​
+​
+h1 {
+    color: red;
+}
+​
+/* class secicileri */
+​
+.paragraf {
+    text-align: center;
+}
+​
+/* ID secicileri */
+​
+#p1 {
+    background-color: aqua;
+}
